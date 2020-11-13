@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.laggerp.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.laggerp.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://laggerp.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.laggerp.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/pablo-lagger/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo%20Lagger%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:contacto@laggerp.me"><img alt="Email" src="https://img.shields.io/badge/Email-contacto@laggerp.me-blue?style=flat-square&logo=gmail"></a>
 </p>
