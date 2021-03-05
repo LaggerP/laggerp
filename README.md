@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying IT Management.
-- 💼 &nbsp; Working as a FullStack Web Dev at Insside.
+- 💼 &nbsp; Working as a FullStack Web Dev.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Blockchain.
 - 👯 I’m looking to collaborate on open source project.
 - 📫 How to reach me: contacto@laggerp.me.
