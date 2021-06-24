@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying IT Management.
-- 💼 &nbsp; Working as a FullStack Web Dev.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Blockchain.
+- 🎓 Studying university degree in IT Management at UADE.
+- 💼 Working as a Software Developer.
+- 🌱 Learning more about Cloud Architecture, Software systems Design, Blockchain and IT Management.
 - 👯 I’m looking to collaborate on open source project.
 - 📫 How to reach me: contacto@laggerp.me.
 
