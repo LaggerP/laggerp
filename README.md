@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 Studying university degree in IT Management at UADE.
-- 💼 Working as a Software Developer.
+- 💼 Working as a Software Developer at Ualá.
 - 🌱 Learning more about Cloud Architecture, Software systems Design, Blockchain and IT Management.
 - 👯 I’m looking to collaborate on open source project.
 - 📫 How to reach me: contacto@laggerp.me.
