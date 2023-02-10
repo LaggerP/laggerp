@@ -8,7 +8,6 @@
 - 💼 Working as a Software Developer at [Ualá](https://uala.com.ar/).
 - 🌱 Learning more about Cloud Architecture, Software systems Design, Blockchain and IT Management.
 - 👯 I’m looking to collaborate on open source project.
-- 📫 How to reach me: contacto@laggerp.me.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -21,7 +20,8 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Exoress.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  
+  ![Golang](https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=java&logoColor=white)
+   
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6/?style=for-the-badge&logo=amazondynamodb&logoColor=white)
@@ -39,7 +39,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://laggerp.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.laggerp.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://laggerp.github.io/"><img alt="Website" src="https://img.shields.io/badge/My Web-white?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/pablo-lagger/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo%20Lagger%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:contacto@laggerp.me"><img alt="Email" src="https://img.shields.io/badge/Email-contacto@laggerp.me-blue?style=flat-square&logo=gmail"></a>
 </p>
